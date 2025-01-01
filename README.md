@@ -26,3 +26,16 @@ This project is a simple implementation of the **Caesar Cipher** encryption and 
    ```bash
    sudo apt update
    sudo apt install gcc
+3. **copy/download/clone repository.**
+   ```bash
+   git clone https://github.com/shadow-fighter666/SCT_CS_1.git
+4. **Open the folder SCT_CS_1.**
+   ```bash
+   cd SCT_CS_1
+5. **Compile the code .**
+   ```bash
+   gcc SCT_CS_1
+6. **Run the code.**
+```bash
+   ./a.out
+   
