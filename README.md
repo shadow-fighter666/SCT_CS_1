@@ -1,5 +1,5 @@
 # SCT_CS_1
-Skillcraft technology internship in cyber securitytask 1) Create a program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
+Skillcraft technology internship in cyber security task 1) Create a program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption.
 # Caesar Cipher Tool
 
 This project is a simple implementation of the **Caesar Cipher** encryption and decryption algorithm in C. The tool provides a command-line interface that allows users to encrypt or decrypt text using a given shift value.
