@@ -36,6 +36,6 @@ This project is a simple implementation of the **Caesar Cipher** encryption and 
    ```bash
    gcc SCT_CS_1
 6. **Run the code.**
-```bash
+   ```bash
    ./a.out
    
